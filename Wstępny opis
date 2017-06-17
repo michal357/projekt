@@ -1,0 +1,11 @@
+Przy użyciu technologii ASP.net chcemy stworzyć stronę internetową, która będzie umożliwiała obstawianie wyników wydarzeń sportowych.
+Strona będzie oferowała możliwość rejestracji własnego konta użytkownika wraz z możliwością logowania. Użytkownik będzie miał do dyspozycji
+swój wirtualny portfel z pewną początkową walutą, dzięki czemu rozgrywka będzie umożliwiała zysk lub stratę na obstawieniach. Do tego
+zostanie stworzony system statystyk, w których będzie można zyskać informację na temat 
+1) Najlepszych graczy w rozgrywce (ze względu na sumę wirtualnych pieniędzy)
+2) Najlepszych obstawień (ze względu na jednorazową największą wygraną)
+3) Historii własnego portfela w podanym przedziale czasu
+
+O wygranej i przegranej będzie decydowała pewna funkcja losująca z podanym prawdopodobieństwem.
+
+Wraz z rozwojem witryny, gracz będzie miał możliwość obstawianie wydarzeń w coraz większej ilości dyscyplin 
